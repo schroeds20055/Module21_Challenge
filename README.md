@@ -30,18 +30,20 @@
 - Record a short video or take screenshots as evidence of your deployed crowdsale contract. The video or screenshots should illustrate the following: 
     - Deployment of the contract to a local blockchain with Remix, MetaMask, and Ganache.
     - Using test accounts to buy new tokens from the crowdsale and then checking the balances associated with the test accounts.
-- After purchasing tokens with test accounts, viewing the total supply of minted tokens and the amount of wei that has been raised by the crowdsale.
+    - After purchasing tokens with test accounts, viewing the total supply of minted tokens and the amount of wei that has been raised by the crowdsale.
 
-IMPORTANT
-If you provide screenshots, add them to the README.md file of your Challenge repository. The screenshots should provide a guide that someone else could use to compile the contracts and add the KaseiCoin token to MetaMask.
+![Constructor_Compilation](https://github.com/schroeds20055/Module21_Challenge/blob/main/Evaluation%20Evidence/Constructor_Compilation.png "Constructor_Compilation")
 
-Coding Conventions and Formatting (10 points)
-To receive all points, you must:
+![Crowd_Sale_Compilation](https://github.com/schroeds20055/Module21_Challenge/blob/main/Evaluation%20Evidence/Crowd_Sale_Compilation.png "Crowd_Sale_Compilation")
 
-Place imports at the top of the file. (3 points)
+![Deployer_Contract_Setup](https://github.com/schroeds20055/Module21_Challenge/blob/main/Evaluation%20Evidence/Deployer_Contract_Setup.png "Deployer_Contract_Setup")
 
-Name functions and variables using mixedCase, as stated in the Solidity Language Style Guide (Links to an external site.). (2 points)
+![Contract_Deployed](https://github.com/schroeds20055/Module21_Challenge/blob/main/Evaluation%20Evidence/Contract_Deployed.png "Contract_Deployed")
 
-Follow DRY (Don't Repeat Yourself) principles, creating maintainable and reusable code. (3 points)
+![Crowd_Sale_Compilation](https://github.com/schroeds20055/Module21_Challenge/blob/main/Evaluation%20Evidence/Crowd_Sale_Compilation.png "Crowd_Sale_Compilation")
 
-Use concise logic and creative engineering where possible. (2 points)
+![Three_Deployed_Contracts](https://github.com/schroeds20055/Module21_Challenge/blob/main/Evaluation%20Evidence/Three_Deployed_Contracts.png "Three_Deployed_Contracts")
+
+![5_Tokens_Bought](https://github.com/schroeds20055/Module21_Challenge/blob/main/Evaluation%20Evidence/5_Tokens_Bought.png "5_Tokens_Bought")
+
+![Completed_Transaction](https://github.com/schroeds20055/Module21_Challenge/blob/main/Evaluation%20Evidence/Completed_Transaction.png "Completed_Transaction")

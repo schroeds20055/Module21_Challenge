@@ -8,20 +8,20 @@
 
 
 
-## Create the KaseiCoin Crowdsale Contract (15 points)
+## Create the KaseiCoin Crowdsale Contract 
 
 - Have your KaseiCoinCrowdsale contract inherit the OpenZeppelin Crowdsale and MintedCrowdsale contracts. 
 - Add the rate, wallet, and token parameters to your crowdsale contract’s constructor. 
-- Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the README.md file for your Challenge repository. (5 points)
+- Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the README.md file for your Challenge repository. 
 
 
 
-## Create the KaseiCoin Deployer Contract (35 points)
+## Create the KaseiCoin Deployer Contract 
 
 - Add variables to the KaseiCoinCrowdsaleDeployer contract that can store the KaseiCoin and KaseiCoinCrowdsale contract addresses. 
 - Add the name, symbol, and wallet parameters to the KaseiCoinCrowdsaleDeployer contract’s constructor.
 - Add the required code within the constructor’s body.
-- Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the README.md file for your Challenge repository. (5 points)
+- Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the README.md file for your Challenge repository. 
 
 
 
